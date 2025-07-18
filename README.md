@@ -95,9 +95,8 @@ You can host it at:
 
 ## 🧑‍💻 Mentors & Contributors
 
-- **Shresth Sahai** — CI/CD Mentor
-- **Coding Blocks** — Learning Platform
-- **Garvit Doehere** — DevOps Guide
+- **Shresth Sahai** — DevOps Mentor
+- **Garvit Doehere** — DevOps Instructor
 
 ## ⚙️ License
 
