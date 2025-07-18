@@ -11,7 +11,7 @@ function App() {
           DevOps Mentor Hub
         </h1>
         <p className="text-lg md:text-xl text-gray-300 max-w-2xl mx-auto">
-          Learn modern CI/CD workflows with AWS — Shresth Sahai, Coding Blocks, Garvit Doehere
+          Learn modern CI/CD workflows with AWS — Shresth Sahai, Coding Blocks, Garvit Dohere
         </p>
       </motion.header>
 
@@ -42,7 +42,7 @@ function App() {
 
       {/* Why Choose Us Section */}
       <motion.section className="max-w-4xl w-full mx-auto p-6 md:p-8 bg-black/20 backdrop-blur-xl rounded-xl shadow-lg border border-white/10 mt-8" initial={{ opacity: 0, y: 40 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.8, duration: 0.6 }}>
-        <h2 className="text-2xl md:text-3xl font-semibold mb-6 text-center">Why Choose Us</h2>
+        <h2 className="text-2xl md:text-3xl font-semibold mb-6 text-center">Why Choose Coding Blocks</h2>
         <ul className="grid grid-cols-1 md:grid-cols-3 gap-4">
           <li className="p-4 rounded-lg bg-gradient-to-br from-blue-700 to-indigo-600 flex items-center gap-3"><FaUsers size={20} /> Community-Driven Mentorship</li>
           <li className="p-4 rounded-lg bg-gradient-to-br from-teal-700 to-green-600 flex items-center gap-3"><FaTools size={20} /> Real-World DevOps Tools</li>
